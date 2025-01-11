@@ -1,0 +1,1 @@
+SEO Index Alert is a lightweight tool inspired by the work of Nerd-Rush on GitHub. It visually warns administrators when the 'Discourage search engines from indexing this site' option is enabled. The plugin enhances usability by modifying the admin bar's appearance and displaying a dismissible admin notice, ensuring your site's SEO visibility settings are always in check.
